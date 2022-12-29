@@ -13,3 +13,5 @@ def fourth(request):
     return HttpResponse('<b> HELLO HOW ARE YOU ...<b>')
 def fifth(request):
     return HttpResponse('hello')
+def six(request):
+    return HttpResponse('<marquee>good morning</marquee>')

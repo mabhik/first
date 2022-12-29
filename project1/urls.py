@@ -26,5 +26,6 @@ urlpatterns = [
     path('abijith/',abijith,name='abijith'),
     path('abi/',abi,name='abi'),
     path('fourth/',fourth,name='fourth'),
-    path('fifth/',fifth,name='fifth')
-]
+    path('fifth/',fifth,name='fifth'),
+    path('six/',six,name='six')
+    ]
